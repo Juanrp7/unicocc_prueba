@@ -1,10 +1,10 @@
-# 🧩 Prueba Técnica — Unico CC (Laravel + PostgreSQL + Vue 3)
+# Prueba Técnica — Unico CC (Laravel + PostgreSQL + Vue 3)
 
 Este repositorio contiene el desarrollo completo de la **Prueba Técnica**.
 
 ---
 
-## ⚙️ Requisitos previos
+## Requisitos previos
 
 | Recurso | Versión mínima | Descripción |
 |----------|----------------|--------------|
@@ -17,9 +17,9 @@ Este repositorio contiene el desarrollo completo de la **Prueba Técnica**.
 
 ---
 
-## 🚀 Instalación y configuración
+## Instalación y configuración
 
-### 1️⃣ Clonar el repositorio
+### 1 Clonar el repositorio
 
 ```bash
 git clone https://github.com/Juanrp7/unicocc_prueba.git
@@ -28,7 +28,7 @@ cd unicocc_prueba
 
 ---
 
-### 2️⃣ Configurar el **backend**
+### 2 Configurar el **backend**
 
 ```bash
 cd back
@@ -73,7 +73,7 @@ php artisan serve          # Inicia en http://localhost:8000
 
 ---
 
-### 3️⃣ Configurar el **frontend**
+### 3 Configurar el **frontend**
 
 ```bash
 cd ../front
@@ -93,11 +93,11 @@ npm run dev
 ```
 
 El proyecto estará disponible en  
-👉 `http://localhost:5173`
+ `http://localhost:5173`
 
 ---
 
-## 🧠 Descripción general del sistema
+## Descripción general del sistema
 
 
 **Endpoints principales:**
